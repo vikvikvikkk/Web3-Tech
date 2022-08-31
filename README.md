@@ -25,12 +25,12 @@ Navigation
 
 ## Code
 
-*Web3 Jobs Websites*
+*Tools & Resources*
 
-* [Web3 Career](https://web3.career/)
-* [Crypto Careers](https://www.crypto-careers.com/)
-* [CryptoJobsList](https://cryptojobslist.com/)
-* [CryptocurrencyJobs](https://cryptocurrencyjobs.co/)
+* [Tenderly](https://tenderly.co/)
+* [Huff Language](https://huff.sh/)
+* [Deth](https://www.deth.net/)
+* [Miniscan](https://miniscan.xyz/)
 * [CryptoJobs](https://crypto.jobs/)
 * [Remote3](https://remote3.co/)
 * [Froog](https://froog.co/)
