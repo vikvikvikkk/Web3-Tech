@@ -1,9 +1,9 @@
-# Web3-Code  
+# Web3-Tech  
 
 Navigation  
 
-- [Web3 Code](#web3-code)
-    - [Learn and Jobs Resources](#learn-and-jobs-resources)
+- [Web3 Tech](#web3-tech)
+    - [Code](#code)
     - [Mix Of Everything](#mix-of-everything)
     - [Funds](#funds)
     - [Tokenomics](#tokenomics)
