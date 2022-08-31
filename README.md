@@ -5,7 +5,7 @@ Navigation
 - [Web3 Tech](#web3-tech)
     - [Code](#code)
     - [Security](#security)
-    - [Funds](#funds)
+    - [Nodes and Testnets](#nodes-and-testnets)
 
 - - -
 
@@ -328,7 +328,7 @@ Navigation
 * [Alpha Dashboard](https://jbln-crypto.notion.site/jbln-crypto/alpha-dashboard-7a1a844780a14ded9a1940931a076543)
 * [Immersion Den](https://immersionden.xyz/)
 
-## Funds
+## Nodes and Testnets
 
 *Resources*
 
