@@ -23,7 +23,7 @@ Navigation
 
 - - -
 
-## Learn and Jobs Resources
+## Code
 
 *Web3 Jobs Websites*
 
