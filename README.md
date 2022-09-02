@@ -531,6 +531,22 @@ Navigation
 * [Contracts Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard)
 * [Introduction to Ethereum Security](https://academy.fuzzinglabs.com/view/courses/introduction-to-ethereum-security)
 
+*Cases*
+
+* [Compound Incident Analysis](https://twitter.com/Mudit__Gupta/status/1443454935639609345)
+* [Fei Bonding Curve Bug Post Mortem](https://medium.com/fei-protocol/fei-bonding-curve-bug-post-mortem-98d2c6f271e9)
+* [Fei Protocol Flashloan Vulnerability Bugfix Review](https://medium.com/immunefi/fei-protocol-flashloan-vulnerability-postmortem-7c5dc001affb)
+* [Nomad Case](https://twitter.com/samczsun/status/1554252024723546112)
+* [Guidelines and training material to write secure smart contracts](https://github.com/crytic/building-secure-contracts)
+* [List of Ethereum Smart Contracts Post-Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
+* [Interesting Thread](https://twitter.com/storming0x/status/1509769575021178886)
+* [Smart Contract Weakness Classification and Test Cases](https://swcregistry.io/)
+* [Smart Contract Development and Auditor Roadmap](https://twitter.com/cryptoThemeX/status/1541080265543454721?t=CPS6zIi2sb6oWszFxHKyxg&s=19)
+* [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices)
+* [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
+* [Guidelines and training material to write secure smart contracts](https://github.com/crytic/building-secure-contracts)
+* [List of Ethereum Smart Contracts Post-Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
+* [Interesting Thread](https://twitter.com/storming0x/status/1509769575021178886)
 
 ## Nodes and Testnets
 
