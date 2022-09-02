@@ -317,7 +317,7 @@ Navigation
 * [A survey of attacks on Ethereum smart contracts](https://eprint.iacr.org/2016/1007.pdf)
 * [SMART CONTRACT SECURITY CHECKLIST](https://ethereum.org/en/developers/tutorials/secure-development-workflow/)
 * [Ethereum-Smart-Contracts-Security-CheckList](https://github.com/knownsec/Ethereum-Smart-Contracts-Security-CheckList/blob/master/Ethereum%20Smart%20Contract%20Audit%20CheckList.pdf)
-* [Alameda Screener](https://messari.io/screener/alameda-research-portfolio-AA952B81)
+* [A curated list of awesome Ethereum security references](https://github.com/crytic/awesome-ethereum-security)
 * [~300 US focused Web3 VC Funds List](https://docs.google.com/spreadsheets/d/1MvVLkUng7dfzgBHsnTjYwpXwmDUWdzCnlHfGsld3cLk/edit#gid=0)
 * [Chain Broker](https://chainbroker.io/)
 * [Crypto Investor Tiers Master Sheet](https://docs.google.com/spreadsheets/d/1saqKNeo9pSl-m_Xa9jVpFyPfg8faCXn6lZ3TEtTKz5Y/edit#gid=0)
