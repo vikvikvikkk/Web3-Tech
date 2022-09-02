@@ -377,7 +377,7 @@ Navigation
 * [All known smart contract-side and user-side attacks and vulnerabilities in Web3.0, DeFi, NFT and Metaverse + Bonus](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
 * [With Rektosaurus you can inspect websites that display NFTs for user-side attacks including script injection](https://twitter.com/officer_cia/status/1514340146027540484)
 * [Ultimate crypto scoring & tracking pack](https://telegra.ph/Ultimate-crypto-scoring--tracking-pack-03-19)
-* [Crypto VC](https://docs.google.com/spreadsheets/d/120dZxsQtrjjgR35Wxt-uzYaoy6-OuuvDty81UDfuqhA/edit#gid=1251228490)
+* [Getting started with Monero + Bonus](https://telegra.ph/Getting-started-with-Monero--Bonus-04-19)
 * [a16z Screener](https://messari.io/screener/a16z-A3B6E65F)
 * [Alameda Screener](https://messari.io/screener/alameda-research-portfolio-AA952B81)
 * [~300 US focused Web3 VC Funds List](https://docs.google.com/spreadsheets/d/1MvVLkUng7dfzgBHsnTjYwpXwmDUWdzCnlHfGsld3cLk/edit#gid=0)
